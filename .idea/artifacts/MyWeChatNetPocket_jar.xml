@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyWeChatNetPocket:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyWeChatNetPocket_jar</output-path>
+    <root id="archive" name="MyWeChatNetPocket.jar">
+      <element id="module-output" name="MyWeChatNetPocket" />
+    </root>
+  </artifact>
+</component>
